@@ -12,8 +12,8 @@ public class StackFactory {
         switch (type) {
             case "ArrayList": return new StackArrayList<>();
             case "Vector": return new StackVector<>();
-            case "SimpleList": return new StackLinkedList<>();
-            case "DoubleList": return new StackDoubleList<>();
+            case "SimpleList": return new StackLinkedList<>(new SimpleLinkedList<>());
+            case "DoubleList": return new StackLinkedList<>(new DoubleLinkedList<>());
             default: return null;
         }
     }
