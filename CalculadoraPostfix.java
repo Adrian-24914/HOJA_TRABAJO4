@@ -1,3 +1,10 @@
+/**--------------------------------------
+ * Universidad del Valle de Guatemala
+ * @author: Jorge Villeda, Andrés Ismalej, Adrián Penagos
+ * Fecha de finalización: 20/02/2025
+ * --------------------------------------
+ */
+
 import java.util.Scanner;
 import java.util.Stack;
 

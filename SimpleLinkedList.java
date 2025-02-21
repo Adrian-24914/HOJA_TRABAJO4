@@ -1,3 +1,10 @@
+/**--------------------------------------
+ * Universidad del Valle de Guatemala
+ * @author: Jorge Villeda, Andrés Ismalej, Adrián Penagos
+ * Fecha de finalización: 20/02/2025
+ * --------------------------------------
+ */
+
 // Implementación de Lista Simplemente Enlazada
 class Node<E> {
     E data;
