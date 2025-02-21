@@ -1,11 +1,11 @@
 /**--------------------------------------
  * Universidad del Valle de Guatemala
- * @author: Pedro Caso 
- * Carnet: 241286
- * Fecha de inicio: 27/01/2025
- * Fecha de finalización: 27/01/2025
+ * Algoritmos y Estructuras de Datos
+ * Ing. Douglas Barrios
+ * @author: (Pedro Caso HDT#3) Jorge Villeda, Andrés Ismalej, Adrián Penagos
+ * Fecha de finalización: 20/02/2025
  * --------------------------------------
- */
+*/
 
  import java.io.BufferedReader;
  import java.io.FileReader;

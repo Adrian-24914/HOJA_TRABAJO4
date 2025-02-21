@@ -1,3 +1,11 @@
+/**--------------------------------------
+ * Universidad del Valle de Guatemala
+ * Algoritmos y Estructuras de Datos
+ * Ing. Douglas Barrios
+ * @author: Jorge Villeda, Andrés Ismalej, Adrián Penagos
+ * Fecha de finalización: 20/02/2025
+ * --------------------------------------
+*/
 // Implementación de Stack con Lista Doblemente Enlazada
 public class StackDoubleList<E> implements Stack<E> {
     private DoubleLinkedList<E> list;

@@ -1,3 +1,11 @@
+/**--------------------------------------
+ * Universidad del Valle de Guatemala
+ * Algoritmos y Estructuras de Datos
+ * Ing. Douglas Barrios
+ * @author: Jorge Villeda, Andrés Ismalej, Adrián Penagos
+ * Fecha de finalización: 20/02/2025
+ * --------------------------------------
+*/
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
